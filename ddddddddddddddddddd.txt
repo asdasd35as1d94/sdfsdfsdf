@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ddddddddddddddddd
 dd45as4d54sadsada
+=======
+1111111111111111111111111111111ddddddddddddddddddd
+111111111111111111111145ad45as4d54sadsada
+>>>>>>> 13811d218c3d18ee92cdd8b6201d6bc7025ab40c
